@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Hypothesis testing using R
+description: The course reflects most curriculumns of Universities regarding the introductory lectures in Statistcs. It helps to immediately see real examples of hypothesis testing in R environmnet. Therefore, it is highly recommended for students that are currently dealing with the Statistics. Nevertheless, it helps also other R practitioners to gain insights regarding statistical methods.
 programming_language: r
 from: 'r-base-prod:v1.0.0'
